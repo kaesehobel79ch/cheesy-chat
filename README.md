@@ -1,6 +1,6 @@
-# Cheesy Chat
+# `Cheesy Chat`
 
-Twitch-Chatbot mit lokaler KI. Cheesy Chat beantwortet Fragen im eigenen Twitch-Chat, schreibt Sperren mit und hält fest, was während einer Sendung war. Die KI läuft auf dem eigenen Rechner; jede Antwort ist im Chat mit „[KI-Bot]“ gekennzeichnet.
+Twitch-Chatbot mit lokaler KI. `Cheesy Chat` beantwortet Fragen im eigenen Twitch-Chat, schreibt Sperren mit und hält fest, was während einer Sendung war. Die KI läuft auf dem eigenen Rechner; jede Antwort ist im Chat mit „[KI-Bot]“ gekennzeichnet.
 
 **[Herunterladen (neueste Version)](https://github.com/kaesehobel79ch/cheesy-chat/releases/latest)**
 
@@ -23,7 +23,7 @@ Alles Weitere steht im Programm unter „Info“ – „Unterlagen“ (Handbuch,
 - Sperren mitschreiben, damit sich ein Verstoss beim Twitch-Support belegen lässt
 - Chat-Fenster mit Namensfarben und Abzeichen, eigene Chat-Befehle
 
-Cheesy Chat ist kein Moderationsbot. Er sperrt niemanden, macht keine Werbung und legt keine Profile über einzelne Zuschauer an.
+`Cheesy Chat` ist kein Moderationsbot. Er sperrt niemanden, macht keine Werbung und legt keine Profile über einzelne Zuschauer an.
 
 ## Voraussetzungen
 
