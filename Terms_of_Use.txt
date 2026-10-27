@@ -1,0 +1,230 @@
+CHEESY CHAT 1.3 - TERMS OF USE (FREEWARE)
+Last updated: 2026-10-27
+
+Responsible for content and data processing:
+Martin Leutenegger
+c/o Frey Services
+Eggstrasse 14f
+8134 Adliswil
+Switzerland
+Email: info@info-kaesehobel.ch
+Web:   https://www.info-kaesehobel.ch/
+
+
+1. FREEWARE
+
+Cheesy Chat is freeware. The program may be used free of charge, both
+privately and for business purposes. No license fees are charged.
+There is no advertising and there are no additional purchases.
+
+The program needs an internet connection for operating on Twitch, for
+the one-time download of the AI model file, for checking for and
+downloading updates, for the game codes of the !code command and for
+the additional services that the operator chooses to turn on (web
+search, weather, AI memory). A complete list of these services is
+under "Info" - "Documents" - "Component licenses". Beyond that, the
+program does not connect anywhere.
+
+Anyone who wants to use the weather part of the !test command in a
+commercially operated channel must first check the terms of
+Open-Meteo - its free API is intended for non-commercial use.
+
+
+2. WHAT IS PERMITTED
+
+- Installing and using the program on any number of one's own
+  computers.
+- Passing on the unchanged installation package free of charge,
+  as long as these terms of use, the privacy notice and the license
+  texts of the included components are enclosed.
+
+
+3. WHAT IS NOT PERMITTED
+
+- Selling the program, renting it out or passing it on for a fee,
+  including as part of a paid package.
+- Changing, removing or obscuring the program name, logo, copyright
+  notice, license or privacy texts.
+- Passing on modified versions of the program.
+- Reverse engineering or decrypting the program and circumventing its
+  self-check, except to the extent that the law expressly permits
+  such acts.
+- Using the program for unlawful purposes or in a way that violates
+  Twitch's terms of service or guidelines.
+
+Excepted are the included Wikipedia texts: they are governed solely
+by their own license (CC BY-SA 4.0). The prohibitions in sections 3
+and 8 do not apply to them.
+
+
+4. COPYRIGHT
+
+© 2026 Käse_Hobel (Martin Leutenegger). All rights reserved, to the
+extent they are not granted in these terms and to the extent the law
+grants such rights.
+
+Clarification: Parts of this program and the graphics were created
+with the assistance of AI. As a rule, purely machine-generated content
+does not enjoy copyright protection in Switzerland, for lack of human
+creation (Art. 2 URG, Swiss Copyright Act). Regardless of this, these
+terms of use apply as a contractual agreement, and the program name
+"Cheesy Chat" and the logo may not be used as one's own designation of
+origin (Federal Act against Unfair Competition, UWG, SR 241).
+The included third-party components are subject to their own licenses,
+see "Info" - "Documents" - "Component licenses". An overview of all
+contributors and components can be found under "Info" - "Documents" -
+"Credits".
+
+
+5. OPERATOR'S OWN RESPONSIBILITY
+
+Anyone who operates Cheesy Chat in a Twitch channel is themselves
+responsible for:
+- compliance with Twitch's terms of service and community guidelines,
+- informing viewers about the bot and the data processing
+  (for a template, see "Info" - "Documents" - "Privacy policy"),
+- the content that the bot outputs in their channel,
+- obtaining their own access key for the search service they choose
+  (Tavily, OpenAI or Claude), if the search is used, as well as for
+  the costs incurred there and for the data processing agreement with
+  that provider,
+- the decision whether the bot sends answers as whispers, and
+  compliance with the Twitch rules for this.
+
+The bot generates answers automatically. They can be factually wrong.
+The operator assesses for themselves whether they want to use the bot
+in their channel.
+
+
+6. NO WARRANTY
+
+The program is provided free of charge and "as is". No warranty is
+given that it runs without errors, is available without interruption
+or fulfills a particular purpose.
+
+
+7. LIABILITY
+
+Liability is limited to intent and gross negligence. There is no
+liability for slight negligence, in particular not for data loss, lost
+profits, business interruption or consequential damages. Liability for
+personal injury and liability under mandatory law remain unaffected.
+
+
+8. MISUSE, MANIPULATION AND HARM TO THIRD PARTIES
+
+8.1 Any use of the program that harms third parties or violates
+applicable law is expressly prohibited, in particular:
+- modifying, rebuilding, replicating or reverse engineering the
+  program, as well as circumventing or disabling its protective
+  functions (self-check, checksums, encryption of the credentials,
+  retention periods, content filter) - except to the extent that the
+  law expressly permits such acts, for example to make it work together
+  with other programs (Art. 21 URG);
+- removing or falsifying the label "[AI Bot]" or the notices that
+  answers are generated automatically;
+- using the program to insult, humiliate, threaten or harass people,
+  to spread false statements of fact, for spam or for deception about
+  the identity of the sender;
+- collecting, analyzing, passing on or publishing data about viewers
+  beyond what operating the chat requires, as well as any use of the
+  list of bans for unintended purposes;
+- using the program contrary to the terms of service, community
+  guidelines or technical requirements of Twitch or of other
+  services used;
+- passing on versions of the program that have been modified or fitted
+  with malicious functions.
+
+8.2 Anyone who acts in this way does so solely on their own
+responsibility. Such acts can have civil and criminal consequences
+under the law of the country in which they are committed. For
+Switzerland, depending on the circumstances, the following in
+particular may apply:
+- Art. 143bis StGB (Swiss Criminal Code) (unauthorized access
+  to a data processing system), Art. 144bis StGB (damage to data,
+  including putting programs into circulation for such purposes),
+  Art. 143 StGB (unauthorized obtaining of data), Art. 147 StGB
+  (fraudulent misuse of a data processing system);
+- Art. 173 et seq. StGB (offenses against honor), Art. 179novies StGB
+  (unauthorized obtaining of particularly sensitive personal data),
+  Art. 179decies StGB (identity misuse);
+- the criminal provisions of the Federal Act on Data Protection
+  (DSG, SR 235.1);
+- Art. 62 and 67 URG (SR 231.1) as well as the UWG (SR 241), if the
+  program is modified, or distributed under another name or with the
+  indications of origin removed.
+In other countries, the corresponding local provisions apply.
+
+8.3 The provider expressly distances himself from any such use. The
+program is intended for running one's own Twitch chat and for nothing
+else.
+
+8.4 The provider is not liable for damage arising from use that
+contradicts these terms or applicable law. Anyone who uses the program
+commercially and contrary to these terms must indemnify the provider
+against third-party claims arising from this. This indemnification
+does not apply to persons who use the program privately.
+
+8.5 For the consequences of a violation for the permission itself, see
+Section 10.
+
+8.6 This section is a note on the applicable legal situation and does
+not itself create any criminal liability. Whether and to what extent
+an act has civil or criminal consequences is decided solely by the
+competent authorities and courts.
+
+
+9. RIGHTS OF THE PROVIDER IN CASE OF VIOLATIONS
+
+In addition to Section 8, the following applies to violations of
+these terms:
+
+- Under civil law, according to Article 62 of the Federal Act on
+  Copyright (URG, SR 231.1), the rights holder can demand that an
+  imminent infringement be prohibited and an existing infringement be
+  remedied, and can obtain information about the origin and quantity
+  of unlawfully produced or distributed copies. Claims under the
+  Obligationenrecht (Swiss Code of Obligations) for damages,
+  satisfaction and surrender of profits remain reserved
+  (Art. 62 para. 2 URG).
+- Under criminal law, according to Article 67 URG, anyone who
+  intentionally and unlawfully, among other things, uses a work under
+  a false designation, modifies it, publishes it, or produces, offers
+  or otherwise distributes copies of the work is liable, on complaint
+  by the injured person, to imprisonment of up to one year or a
+  monetary penalty. Anyone who acts in this way and does so for
+  commercial gain is prosecuted ex officio; the penalty is imprisonment
+  of up to five years or a monetary penalty (Art. 67 para. 2 URG).
+- Anyone who distributes the program under another name or with the
+  indications of origin removed may additionally violate the Federal
+  Act against Unfair Competition (UWG, SR 241).
+
+This list, too, is a note on the legal situation; see Section 8.6.
+
+
+10. DURATION
+
+This permission ends immediately and without further notice upon any
+violation of these terms, in particular of Section 3 or Section 8. In
+this case, the program must be uninstalled. This is the only rule on
+this.
+
+
+11. APPLICABLE LAW
+
+Swiss law applies. The place of jurisdiction, to the extent permitted
+by law, is the provider's place of residence. Mandatory consumer
+protection provisions of the user's country of residence remain
+unaffected.
+
+
+12. NOTE ON DEVELOPMENT
+
+AI assistance was used in the development of this program. The source
+code was reviewed, adapted and put together for this project by the
+developer.
+
+
+13. CONTACT
+
+info@info-kaesehobel.ch

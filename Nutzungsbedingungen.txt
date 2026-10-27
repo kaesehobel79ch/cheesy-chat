@@ -1,0 +1,232 @@
+CHEESY CHAT 1.3 - NUTZUNGSBEDINGUNGEN (FREEWARE)
+Stand: 27.10.2026
+
+Verantwortlich für Inhalt und Datenverarbeitung:
+Martin Leutenegger
+c/o Frey Services
+Eggstrasse 14f
+8134 Adliswil
+Schweiz
+E-Mail: info@info-kaesehobel.ch
+Web:    https://www.info-kaesehobel.ch/
+
+
+1. FREEWARE
+
+Cheesy Chat ist Freeware. Das Programm darf kostenlos genutzt werden,
+privat wie geschäftlich. Es fallen keine Lizenzgebühren an. Es gibt
+keine Werbung und keine Zusatzkäufe.
+
+Eine Internetverbindung braucht das Programm für den Betrieb an
+Twitch, für das einmalige Herunterladen der KI-Modelldatei, für die
+Suche nach Updates und deren Herunterladen, für die Spielcodes des
+Befehls !code und für die Zusatzdienste, die der Betreiber selbst
+einschaltet (Websuche, Wetter, KI-Gedächtnis). Welche Dienste das
+sind, steht vollzählig unter "Info" - "Unterlagen" -
+"Komponenten-Lizenzen". Darüber hinaus meldet sich das Programm
+nirgends.
+
+Wer den Wetterteil des Befehls !test in einem gewerblich betriebenen
+Kanal nutzen will, prüft vorher die Bedingungen von Open-Meteo - die
+kostenlose Schnittstelle dort ist für nicht kommerzielle Nutzung
+vorgesehen.
+
+
+2. WAS ERLAUBT IST
+
+- Das Programm auf beliebig vielen eigenen Computern installieren und
+  benutzen.
+- Das unveränderte Installationspaket unentgeltlich weitergeben,
+  solange diese Nutzungsbedingungen, der Datenschutzhinweis und die
+  Lizenztexte der mitgelieferten Komponenten beiliegen.
+
+
+3. WAS NICHT ERLAUBT IST
+
+- Verkauf des Programms, Vermietung oder Weitergabe gegen Entgelt,
+  auch nicht als Teil eines kostenpflichtigen Pakets.
+- Verändern, Entfernen oder Unkenntlichmachen von Programmname,
+  Logo, Urheberrechtsvermerk, Lizenz- oder Datenschutztexten.
+- Weitergabe veränderter Fassungen des Programms.
+- Zurückentwickeln oder Entschlüsseln des Programms sowie Umgehen
+  seiner Selbstprüfung, soweit das Gesetz solche Handlungen nicht
+  ausdrücklich erlaubt.
+- Nutzung für rechtswidrige Zwecke oder in einer Weise, die gegen
+  die Nutzungsbedingungen oder Richtlinien von Twitch verstösst.
+
+Ausgenommen sind die mitgelieferten Wikipedia-Texte: Für sie gilt
+allein ihre eigene Lizenz (CC BY-SA 4.0). Die Verbote in Ziffer 3
+und Ziffer 8 betreffen sie nicht.
+
+
+4. URHEBERRECHT
+
+© 2026 Käse_Hobel (Martin Leutenegger). Alle Rechte vorbehalten,
+soweit sie nicht in diesen Bedingungen eingeräumt werden und soweit
+das Gesetz solche Rechte gewährt.
+
+Klarstellung: Teile dieses Programms und die Grafiken wurden mit
+Unterstützung von KI erstellt. Rein maschinell erzeugte Inhalte
+geniessen in der Schweiz mangels menschlicher Schöpfung in der Regel
+keinen Urheberrechtsschutz (Art. 2 URG). Unabhängig davon gelten
+diese Nutzungsbedingungen als vertragliche Abrede, und der
+Programmname "Cheesy Chat" sowie das Logo dürfen nicht als eigene
+Herkunftsbezeichnung verwendet werden (Bundesgesetz gegen den
+unlauteren Wettbewerb, UWG, SR 241).
+Die mitgelieferten fremden Komponenten stehen unter ihren eigenen
+Lizenzen, siehe "Info" - "Unterlagen" - "Komponenten-Lizenzen". Eine
+Übersicht über alle Beteiligten und Bestandteile steht unter "Info" -
+"Unterlagen" - "Credits".
+
+
+5. EIGENVERANTWORTUNG DES BETREIBERS
+
+Wer Cheesy Chat in einem Twitch-Kanal betreibt, ist selbst
+verantwortlich für:
+- die Einhaltung der Twitch-Nutzungsbedingungen und der
+  Community-Richtlinien,
+- die Information der Zuschauer über den Bot und die
+  Datenverarbeitung (Vorlage siehe "Info" - "Unterlagen" -
+  "Datenschutz"),
+- die Inhalte, die der Bot in seinem Kanal ausgibt,
+- die Beschaffung eines eigenen Zugangsschlüssels für den
+  Suchdienst, den er auswählt (Tavily, OpenAI oder Claude), falls
+  die Suche genutzt wird, sowie für die dort anfallenden Kosten und
+  für den Vertrag zur Auftragsverarbeitung mit dem Anbieter,
+- die Entscheidung, ob der Bot Antworten als Flüsternachricht
+  verschickt, und die Einhaltung der Twitch-Regeln dafür.
+
+Der Bot erzeugt Antworten automatisch. Sie können sachlich falsch
+sein. Der Betreiber prüft selbst, ob er den Bot in seinem Kanal
+einsetzen will.
+
+
+6. KEINE GEWÄHRLEISTUNG
+
+Das Programm wird unentgeltlich und "wie besehen" überlassen. Es
+wird keine Gewähr dafür übernommen, dass es fehlerfrei läuft,
+ununterbrochen verfügbar ist oder einen bestimmten Zweck erfüllt.
+
+
+7. HAFTUNG
+
+Die Haftung ist auf Vorsatz und grobe Fahrlässigkeit beschränkt.
+Für leichte Fahrlässigkeit wird nicht gehaftet, insbesondere nicht
+für Datenverlust, entgangenen Gewinn, Betriebsunterbrechung oder
+Folgeschäden. Eine Haftung für Personenschäden sowie eine Haftung
+nach zwingendem Recht bleiben unberührt.
+
+
+8. MISSBRAUCH, MANIPULATION UND SCHÄDIGUNG DRITTER
+
+8.1 Ausdrücklich untersagt ist jede Nutzung des Programms, die Dritte
+schädigt oder gegen geltendes Recht verstösst, insbesondere:
+- Verändern, Umbauen, Nachbauen oder Zurückentwickeln des Programms
+  sowie das Umgehen oder Ausschalten seiner Schutzfunktionen
+  (Selbstprüfung, Prüfsummen, Verschlüsselung der Zugangsdaten,
+  Speicherfristen, Inhaltsfilter) - soweit das Gesetz solche
+  Handlungen nicht ausdrücklich erlaubt, etwa zur Herstellung der
+  Zusammenarbeit mit anderen Programmen (Art. 21 URG);
+- Entfernen oder Verfälschen der Kennzeichnung "[KI-Bot]" oder der
+  Hinweise darauf, dass Antworten automatisch erzeugt sind;
+- Einsatz des Programms zum Beleidigen, Blossstellen, Bedrohen oder
+  Belästigen von Personen, zur Verbreitung falscher Tatsachen, zu
+  Spam oder zur Täuschung über die Identität des Absenders;
+- Sammeln, Auswerten, Weitergeben oder Veröffentlichen von Daten über
+  Zuschauerinnen und Zuschauer über das hinaus, was der Betrieb des
+  Chats erfordert, sowie jede Zweckentfremdung des Sperrprotokolls;
+- Einsatz gegen die Nutzungsbedingungen, Community-Richtlinien oder
+  technischen Vorgaben von Twitch oder anderer genutzter Dienste;
+- Weitergabe veränderter oder mit Schadfunktionen versehener
+  Fassungen des Programms.
+
+8.2 Wer so handelt, handelt ausschliesslich auf eigene Verantwortung.
+Solche Handlungen können nach dem Recht des Staates, in dem sie
+begangen werden, zivil- und strafrechtliche Folgen haben. Für die
+Schweiz kommen je nach Sachverhalt namentlich in Betracht:
+- Art. 143bis StGB (unbefugtes Eindringen in ein Datenverarbeitungs-
+  system), Art. 144bis StGB (Datenbeschädigung, auch das Inverkehr-
+  bringen von Programmen zu solchen Zwecken), Art. 143 StGB
+  (unbefugte Datenbeschaffung), Art. 147 StGB (betrügerischer
+  Missbrauch einer Datenverarbeitungsanlage);
+- Art. 173 ff. StGB (Ehrverletzungsdelikte), Art. 179novies StGB
+  (unbefugtes Beschaffen besonders schützenswerter Personendaten),
+  Art. 179decies StGB (Identitätsmissbrauch);
+- die Strafbestimmungen des Datenschutzgesetzes (DSG, SR 235.1);
+- Art. 62 und 67 URG (SR 231.1) sowie das UWG (SR 241), wenn das
+  Programm verändert, unter fremdem Namen oder unter Entfernung der
+  Herkunftsangaben verbreitet wird.
+In anderen Staaten gelten die dortigen entsprechenden Vorschriften.
+
+8.3 Der Anbieter distanziert sich ausdrücklich von jeder derartigen
+Nutzung. Das Programm ist für den Betrieb eines eigenen Twitch-Chats
+bestimmt und für nichts anderes.
+
+8.4 Der Anbieter haftet nicht für Schäden, die durch eine Nutzung
+entstehen, die diesen Bedingungen oder geltendem Recht widerspricht.
+Wer das Programm gewerblich und entgegen diesen Bedingungen
+einsetzt, stellt den Anbieter von Ansprüchen Dritter frei, die
+daraus entstehen. Gegenüber Personen, die das Programm privat
+nutzen, gilt diese Freistellung nicht.
+
+8.5 Zu den Folgen eines Verstosses für die Erlaubnis selbst siehe
+Ziffer 10.
+
+8.6 Diese Ziffer ist ein Hinweis auf die geltende Rechtslage und
+begründet selbst keine Strafbarkeit. Ob und in welchem Umfang eine
+Handlung zivil- oder strafrechtliche Folgen hat, entscheiden allein
+die zuständigen Behörden und Gerichte.
+
+
+9. RECHTE DES ANBIETERS BEI VERSTÖSSEN
+
+Ergänzend zu Ziffer 8 gilt bei Verstössen gegen diese Bedingungen:
+
+- Zivilrechtlich kann der Rechteinhaber nach Artikel 62 des
+  Bundesgesetzes über das Urheberrecht (URG, SR 231.1) verlangen, dass
+  eine drohende Verletzung verboten und eine bestehende Verletzung
+  beseitigt wird, sowie Auskunft über Herkunft und Menge widerrechtlich
+  hergestellter oder verbreiteter Exemplare erhalten. Vorbehalten
+  bleiben Ansprüche nach Obligationenrecht auf Schadenersatz,
+  Genugtuung und Herausgabe des Gewinns (Art. 62 Abs. 2 URG).
+- Strafrechtlich wird nach Artikel 67 URG auf Antrag der verletzten
+  Person mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe
+  bestraft, wer vorsätzlich und unrechtmässig unter anderem ein Werk
+  unter falscher Bezeichnung verwendet, es ändert, veröffentlicht,
+  Werkexemplare herstellt, anbietet oder sonst wie verbreitet. Wer so
+  handelt und dies gewerbsmässig tut, wird von Amtes wegen verfolgt;
+  die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe
+  (Art. 67 Abs. 2 URG).
+- Wer das Programm unter fremdem Namen oder unter Entfernung der
+  Herkunftsangaben verbreitet, kann zusätzlich gegen das Bundesgesetz
+  gegen den unlauteren Wettbewerb (UWG, SR 241) verstossen.
+
+Auch diese Aufzählung ist ein Hinweis auf die Rechtslage, siehe
+Ziffer 8.6.
+
+
+10. LAUFZEIT
+
+Diese Erlaubnis endet sofort und ohne weitere Mitteilung bei jedem
+Verstoss gegen diese Bedingungen, insbesondere gegen Ziffer 3 oder
+Ziffer 8. In diesem Fall ist das Programm zu deinstallieren. Das ist
+die einzige Regel dazu.
+
+
+11. ANWENDBARES RECHT
+
+Es gilt schweizerisches Recht. Gerichtsstand ist, soweit gesetzlich
+zulässig, der Wohnsitz des Anbieters. Zwingende Verbrauchervorschriften
+des Wohnsitzstaates des Nutzers bleiben unberührt.
+
+
+12. HINWEIS ZUR ENTWICKLUNG
+
+Bei der Entwicklung dieses Programms wurde KI-Unterstützung eingesetzt.
+Der Quellcode wurde durch den Entwickler geprüft, angepasst und für
+dieses Projekt zusammengestellt.
+
+
+13. KONTAKT
+
+info@info-kaesehobel.ch
